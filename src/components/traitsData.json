@@ -1,0 +1,1061 @@
+{
+  "Accessories": [
+    {
+      "name": "Earrings and Facepaint",
+      "file": "Accessories1.png",
+      "percent": 1.43
+    },
+    {
+      "name": "Cotton Candy Tail",
+      "file": "Accessories11.png",
+      "percent": 2.55
+    },
+    {
+      "name": "Pendant",
+      "file": "Accessories12.png",
+      "percent": 3.87
+    },
+    {
+      "name": "Earing and Feather",
+      "file": "Accessories13.png",
+      "percent": 5.14
+    },
+    {
+      "name": "Pearl Necklace",
+      "file": "Accessories3.png",
+      "percent": 1.31
+    },
+    {
+      "name": "Stethoscope",
+      "file": "Accessories4.png",
+      "percent": 1.27
+    },
+    {
+      "name": "Industrial Piercing",
+      "file": "Accessories9.png",
+      "percent": 1.93
+    }
+  ],
+  "Base": [
+    {
+      "name": "Plain Fur",
+      "file": "Base.png",
+      "percent": 98.98
+    },
+    {
+      "name": "Blue Cheetah",
+      "file": "Base1.png",
+      "percent": 0.06
+    },
+    {
+      "name": "Pastel Cheetah",
+      "file": "Base2.png",
+      "percent": 0.12
+    },
+    {
+      "name": "Purple Tiger",
+      "file": "Base3.png",
+      "percent": 0.09
+    },
+    {
+      "name": "Zebra",
+      "file": "Base4.png",
+      "percent": 0.45
+    },
+    {
+      "name": "Cheetah",
+      "file": "Base5.png",
+      "percent": 0.27
+    },
+    {
+      "name": "Rainbow Tail",
+      "file": "Base6.png",
+      "percent": 0.01
+    },
+    {
+      "name": "Gold Lemur",
+      "file": "Base7.png",
+      "percent": 0.01
+    }
+  ],
+  "Clothing": [
+    {
+      "name": "King's Robe",
+      "file": "Clothing1.png",
+      "percent": 0.89
+    },
+    {
+      "name": "White Henley",
+      "file": "Clothing10.png",
+      "percent": 2.57
+    },
+    {
+      "name": "Yellow Tank",
+      "file": "Clothing11.png",
+      "percent": 2.3
+    },
+    {
+      "name": "Tattered Red Scarf",
+      "file": "Clothing12.png",
+      "percent": 1.93
+    },
+    {
+      "name": "Overalls",
+      "file": "Clothing13.png",
+      "percent": 2.44
+    },
+    {
+      "name": "Apple Shirt",
+      "file": "Clothing14.png",
+      "percent": 1.84
+    },
+    {
+      "name": "Rainbow Collar Wetsuit",
+      "file": "Clothing15.png",
+      "percent": 1.77
+    },
+    {
+      "name": "Brown Button Down",
+      "file": "Clothing16.png",
+      "percent": 2.35
+    },
+    {
+      "name": "Grey Hoodie",
+      "file": "Clothing17.png",
+      "percent": 1.81
+    },
+    {
+      "name": "Viking Fur",
+      "file": "Clothing18.png",
+      "percent": 1.79
+    },
+    {
+      "name": "Knights Armor",
+      "file": "Clothing19.png",
+      "percent": 0.68
+    },
+    {
+      "name": "Flower Lei",
+      "file": "Clothing2.png",
+      "percent": 1.26
+    },
+    {
+      "name": "Chef Shirt",
+      "file": "Clothing20.png",
+      "percent": 0.99
+    },
+    {
+      "name": "Police Uniform",
+      "file": "Clothing21.png",
+      "percent": 1.56
+    },
+    {
+      "name": "Orange Bowtie",
+      "file": "Clothing22.png",
+      "percent": 0.51
+    },
+    {
+      "name": "Jester Scarf",
+      "file": "Clothing23.png",
+      "percent": 0.82
+    },
+    {
+      "name": "Leaf Tank",
+      "file": "Clothing24.png",
+      "percent": 1.07
+    },
+    {
+      "name": "Purple Bikini",
+      "file": "Clothing25.png",
+      "percent": 0.9
+    },
+    {
+      "name": "Paw Tank",
+      "file": "Clothing26.png",
+      "percent": 1.39
+    },
+    {
+      "name": "Christmas Sweater",
+      "file": "Clothing27.png",
+      "percent": 1.3
+    },
+    {
+      "name": "Punk Jacket",
+      "file": "Clothing28.png",
+      "percent": 0.41
+    },
+    {
+      "name": "Gold Chain",
+      "file": "Clothing29.png",
+      "percent": 0.85
+    },
+    {
+      "name": "Wetsuit",
+      "file": "Clothing3.png",
+      "percent": 0.5
+    },
+    {
+      "name": "Red V-Neck",
+      "file": "Clothing30.png",
+      "percent": 2.08
+    },
+    {
+      "name": "Red Zip Hoodie",
+      "file": "Clothing31.png",
+      "percent": 1.53
+    },
+    {
+      "name": "Red Button Down",
+      "file": "Clothing32.png",
+      "percent": 1.43
+    },
+    {
+      "name": "Elf Uniform",
+      "file": "Clothing33.png",
+      "percent": 1.13
+    },
+    {
+      "name": "Purple Crop Top",
+      "file": "Clothing34.png",
+      "percent": 1.13
+    },
+    {
+      "name": "Cactus Sweater",
+      "file": "Clothing35.png",
+      "percent": 1.18
+    },
+    {
+      "name": "Blue and Gold Pendant",
+      "file": "Clothing36.png",
+      "percent": 0.94
+    },
+    {
+      "name": "Blue Zip Up",
+      "file": "Clothing37.png",
+      "percent": 1.34
+    },
+    {
+      "name": "Robinhood",
+      "file": "Clothing38.png",
+      "percent": 0.82
+    },
+    {
+      "name": "Superlemur",
+      "file": "Clothing39.png",
+      "percent": 0.27
+    },
+    {
+      "name": "Miami Shirt",
+      "file": "Clothing4.png",
+      "percent": 0.77
+    },
+    {
+      "name": "Wool Scarf",
+      "file": "Clothing40.png",
+      "percent": 1.21
+    },
+    {
+      "name": "Devil tank",
+      "file": "Clothing41.png",
+      "percent": 0.8
+    },
+    {
+      "name": "Peach Dress",
+      "file": "Clothing42.png",
+      "percent": 1
+    },
+    {
+      "name": "Blue Bowtie",
+      "file": "Clothing43.png",
+      "percent": 0.91
+    },
+    {
+      "name": "Red Robes",
+      "file": "Clothing44.png",
+      "percent": 1.23
+    },
+    {
+      "name": "Blue Afghan Scarf",
+      "file": "Clothing45.png",
+      "percent": 0.36
+    },
+    {
+      "name": "Green Scarf",
+      "file": "Clothing46.png",
+      "percent": 0.67
+    },
+    {
+      "name": "Pope Robe",
+      "file": "Clothing47.png",
+      "percent": 0.31
+    },
+    {
+      "name": "Roman Robes",
+      "file": "Clothing48.png",
+      "percent": 0.37
+    },
+    {
+      "name": "Tattered Shirt",
+      "file": "Clothing49.png",
+      "percent": 0.57
+    },
+    {
+      "name": "Karate Robes",
+      "file": "Clothing5.png",
+      "percent": 0.84
+    },
+    {
+      "name": "Basketball Jersey",
+      "file": "Clothing50.png",
+      "percent": 0.3
+    },
+    {
+      "name": "Astronaut Suit",
+      "file": "Clothing51.png",
+      "percent": 0.28
+    },
+    {
+      "name": "Brown Fur",
+      "file": "Clothing52.png",
+      "percent": 0.87
+    },
+    {
+      "name": "Green Tank",
+      "file": "Clothing53.png",
+      "percent": 1.07
+    },
+    {
+      "name": "Daredevil Shirt",
+      "file": "Clothing54.png",
+      "percent": 0.55
+    },
+    {
+      "name": "Pink Dress",
+      "file": "Clothing55.png",
+      "percent": 0.84
+    },
+    {
+      "name": "Purple Tracksuit",
+      "file": "Clothing56.png",
+      "percent": 0.57
+    },
+    {
+      "name": "FU Hoodie",
+      "file": "Clothing57.png",
+      "percent": 0.49
+    },
+    {
+      "name": "Yellow Lucky Letterman",
+      "file": "Clothing58.png",
+      "percent": 0.94
+    },
+    {
+      "name": "Sailor Uniform",
+      "file": "Clothing59.png",
+      "percent": 0.36
+    },
+    {
+      "name": "Clown Suit",
+      "file": "Clothing6.png",
+      "percent": 0.26
+    },
+    {
+      "name": "Red Adventure Shirt",
+      "file": "Clothing60.png",
+      "percent": 1.18
+    },
+    {
+      "name": "Purple Two-Tone Shirt",
+      "file": "Clothing61.png",
+      "percent": 1.22
+    },
+    {
+      "name": "Blue Lucky Letterman",
+      "file": "Clothing62.png",
+      "percent": 0.53
+    },
+    {
+      "name": "Yellow Dress",
+      "file": "Clothing63.png",
+      "percent": 0.42
+    },
+    {
+      "name": "Leather Jacket",
+      "file": "Clothing64.png",
+      "percent": 0.35
+    },
+    {
+      "name": "Ruffled Bikini Top",
+      "file": "Clothing65.png",
+      "percent": 1.74
+    },
+    {
+      "name": "Tropical Tuxedo",
+      "file": "Clothing66.png",
+      "percent": 0.24
+    },
+    {
+      "name": "Orange Hoodie",
+      "file": "Clothing67.png",
+      "percent": 2.55
+    },
+    {
+      "name": "Fish Crop Top",
+      "file": "Clothing68.png",
+      "percent": 1.72
+    },
+    {
+      "name": "Army Uniform",
+      "file": "Clothing69.png",
+      "percent": 1.25
+    },
+    {
+      "name": "Jungle Robe",
+      "file": "Clothing7.png",
+      "percent": 2.26
+    },
+    {
+      "name": "Purple Tank",
+      "file": "Clothing70.png",
+      "percent": 2.02
+    },
+    {
+      "name": "Pink Swimsuit",
+      "file": "Clothing71.png",
+      "percent": 1.4
+    },
+    {
+      "name": "Yellow Blouse",
+      "file": "Clothing72.png",
+      "percent": 2.1
+    },
+    {
+      "name": "Red Heart Blouse",
+      "file": "Clothing73.png",
+      "percent": 2.58
+    },
+    {
+      "name": "Green and Grey T-shirt",
+      "file": "Clothing74.png",
+      "percent": 2.26
+    },
+    {
+      "name": "Money Chain",
+      "file": "Clothing75.png",
+      "percent": 0.19
+    },
+    {
+      "name": "Red Stiped Shirt",
+      "file": "Clothing76.png",
+      "percent": 1.93
+    },
+    {
+      "name": "Tiki Shirt",
+      "file": "Clothing77.png",
+      "percent": 1.22
+    },
+    {
+      "name": "Green Striped Shirt",
+      "file": "Clothing78.png",
+      "percent": 3.63
+    },
+    {
+      "name": "Fur Vest",
+      "file": "Clothing79.png",
+      "percent": 1.63
+    },
+    {
+      "name": "Cashmere Sweater",
+      "file": "Clothing8.png",
+      "percent": 2.53
+    },
+    {
+      "name": "Green Cape",
+      "file": "Clothing80.png",
+      "percent": 2.38
+    },
+    {
+      "name": "Blue Hoodie",
+      "file": "Clothing9.png",
+      "percent": 1.81
+    }
+  ],
+  "Eyeswear": [
+    {
+      "name": "Black Circle Shades",
+      "file": "Eyeswear1.png",
+      "percent": 1.3
+    },
+    {
+      "name": "Zombie Eyes",
+      "file": "Eyeswear10.png",
+      "percent": 6.44
+    },
+    {
+      "name": "Evil Eyes",
+      "file": "Eyeswear11.png",
+      "percent": 1.29
+    },
+    {
+      "name": "Blue Shades",
+      "file": "Eyeswear12.png",
+      "percent": 1.03
+    },
+    {
+      "name": "Crazy Eyes",
+      "file": "Eyeswear13.png",
+      "percent": 1.04
+    },
+    {
+      "name": "Hypnotized",
+      "file": "Eyeswear14.png",
+      "percent": 0.24
+    },
+    {
+      "name": "Stoned",
+      "file": "Eyeswear15.png",
+      "percent": 0.9
+    },
+    {
+      "name": "Purple Laser Eyes",
+      "file": "Eyeswear16.png",
+      "percent": 0.09
+    },
+    {
+      "name": "Cyclops Shades",
+      "file": "Eyeswear17.png",
+      "percent": 3.24
+    },
+    {
+      "name": "Eyepatch",
+      "file": "Eyeswear18.png",
+      "percent": 1.27
+    },
+    {
+      "name": "Sunflower Sunglasses",
+      "file": "Eyeswear19.png",
+      "percent": 0.84
+    },
+    {
+      "name": "Red and Green Shades",
+      "file": "Eyeswear2.png",
+      "percent": 1.75
+    },
+    {
+      "name": "Red Laser Eyes",
+      "file": "Eyeswear20.png",
+      "percent": 0.27
+    },
+    {
+      "name": "Purple Wayfarers",
+      "file": "Eyeswear21.png",
+      "percent": 0.55
+    },
+    {
+      "name": "Turquoise Stoned Eyes",
+      "file": "Eyeswear22.png",
+      "percent": 0.41
+    },
+    {
+      "name": "Heart Glasses",
+      "file": "Eyeswear23.png",
+      "percent": 0.9
+    },
+    {
+      "name": "Gold Laser Eyes",
+      "file": "Eyeswear24.png",
+      "percent": 0.13
+    },
+    {
+      "name": "Reading Glasses",
+      "file": "Eyeswear25.png",
+      "percent": 1.43
+    },
+    {
+      "name": "Diamond Shades",
+      "file": "Eyeswear26.png",
+      "percent": 0.71
+    },
+    {
+      "name": "Pit Vipers",
+      "file": "Eyeswear27.png",
+      "percent": 0.39
+    },
+    {
+      "name": "Circle Glasses",
+      "file": "Eyeswear3.png",
+      "percent": 1.14
+    },
+    {
+      "name": "Yellow Squinted Eyes",
+      "file": "Eyeswear4.png",
+      "percent": 0.93
+    },
+    {
+      "name": "Daisy Shades",
+      "file": "Eyeswear5.png",
+      "percent": 0.53
+    },
+    {
+      "name": "Pixel Glasses",
+      "file": "Eyeswear6.png",
+      "percent": 0.42
+    },
+    {
+      "name": "Feather Mask",
+      "file": "Eyeswear7.png",
+      "percent": 0.72
+    },
+    {
+      "name": "Shutter Shades",
+      "file": "Eyeswear8.png",
+      "percent": 0.4
+    },
+    {
+      "name": "Cyclops Laser",
+      "file": "Eyeswear9.png",
+      "percent": 0.14
+    }
+  ],
+  "Hat": [
+    {
+      "name": "Crown",
+      "file": "Hats1.png",
+      "percent": 0.19
+    },
+    {
+      "name": "Sombrero",
+      "file": "Hats10.png",
+      "percent": 3.1
+    },
+    {
+      "name": "Turquoise Mohawk",
+      "file": "Hats11.png",
+      "percent": 2.31
+    },
+    {
+      "name": "Backwards Baseball Cap",
+      "file": "Hats12.png",
+      "percent": 1.54
+    },
+    {
+      "name": "Unicorn Horn",
+      "file": "Hats13.png",
+      "percent": 0.9
+    },
+    {
+      "name": "Ski Mask",
+      "file": "Hats14.png",
+      "percent": 0.66
+    },
+    {
+      "name": "Dragon Horns",
+      "file": "Hats15.png",
+      "percent": 0.51
+    },
+    {
+      "name": "Gladiator Helmet",
+      "file": "Hats16.png",
+      "percent": 0.53
+    },
+    {
+      "name": "Chef Hat",
+      "file": "Hats17.png",
+      "percent": 1.03
+    },
+    {
+      "name": "Police Hat",
+      "file": "Hats18.png",
+      "percent": 0.78
+    },
+    {
+      "name": "Penguin Hat",
+      "file": "Hats19.png",
+      "percent": 0.66
+    },
+    {
+      "name": "Lemur Chief",
+      "file": "Hats2.png",
+      "percent": 0.26
+    },
+    {
+      "name": "Jester Hat",
+      "file": "Hats20.png",
+      "percent": 1.04
+    },
+    {
+      "name": "Santa Hat",
+      "file": "Hats21.png",
+      "percent": 0.39
+    },
+    {
+      "name": "Headphones",
+      "file": "Hats22.png",
+      "percent": 0.54
+    },
+    {
+      "name": "Black Winter Cap",
+      "file": "Hats23.png",
+      "percent": 1.68
+    },
+    {
+      "name": "Army Helmet",
+      "file": "Hats24.png",
+      "percent": 1.3
+    },
+    {
+      "name": "Yellow Winter Cap",
+      "file": "Hats25.png",
+      "percent": 2.34
+    },
+    {
+      "name": "Feather Headdress",
+      "file": "Hats26.png",
+      "percent": 2.19
+    },
+    {
+      "name": "Croissant",
+      "file": "Hats27.png",
+      "percent": 1.16
+    },
+    {
+      "name": "Antlers",
+      "file": "Hats28.png",
+      "percent": 1.04
+    },
+    {
+      "name": "Elf Hat",
+      "file": "Hats29.png",
+      "percent": 0.93
+    },
+    {
+      "name": "Bunny Ears",
+      "file": "Hats3.png",
+      "percent": 0.82
+    },
+    {
+      "name": "Witch Hat",
+      "file": "Hats30.png",
+      "percent": 0.67
+    },
+    {
+      "name": "Rice Hat",
+      "file": "Hats31.png",
+      "percent": 0.67
+    },
+    {
+      "name": "Cactus Hat",
+      "file": "Hats32.png",
+      "percent": 1.71
+    },
+    {
+      "name": "Egg",
+      "file": "Hats33.png",
+      "percent": 1.84
+    },
+    {
+      "name": "Birthday Hat",
+      "file": "Hats34.png",
+      "percent": 1.99
+    },
+    {
+      "name": "Graduation Cap",
+      "file": "Hats35.png",
+      "percent": 0.68
+    },
+    {
+      "name": "Red and Blue Winter Cap",
+      "file": "Hats37.png",
+      "percent": 1.43
+    },
+    {
+      "name": "Bandana",
+      "file": "Hats38.png",
+      "percent": 3.12
+    },
+    {
+      "name": "Fork",
+      "file": "Hats39.png",
+      "percent": 1.07
+    },
+    {
+      "name": "Trucker Cap",
+      "file": "Hats4.png",
+      "percent": 1.17
+    },
+    {
+      "name": "Halo",
+      "file": "Hats41.png",
+      "percent": 0.69
+    },
+    {
+      "name": "Frog Hat",
+      "file": "Hats42.png",
+      "percent": 0.27
+    },
+    {
+      "name": "Devil Horns",
+      "file": "Hats43.png",
+      "percent": 0.28
+    },
+    {
+      "name": "Warrior Helmet",
+      "file": "Hats44.png",
+      "percent": 0.55
+    },
+    {
+      "name": "Green Trapper Hat",
+      "file": "Hats45.png",
+      "percent": 0.96
+    },
+    {
+      "name": "Guy Fawkes Mask",
+      "file": "Hats46.png",
+      "percent": 0.3
+    },
+    {
+      "name": "Saw Mask",
+      "file": "Hats47.png",
+      "percent": 0.32
+    },
+    {
+      "name": "Pope Hat",
+      "file": "Hats48.png",
+      "percent": 0.41
+    },
+    {
+      "name": "Nurse Hat",
+      "file": "Hats49.png",
+      "percent": 0.82
+    },
+    {
+      "name": "Headband",
+      "file": "Hats5.png",
+      "percent": 3.34
+    },
+    {
+      "name": "Orange Skullcap",
+      "file": "Hats50.png",
+      "percent": 2.08
+    },
+    {
+      "name": "Tiki Hat",
+      "file": "Hats51.png",
+      "percent": 0.57
+    },
+    {
+      "name": "Viking Helmet",
+      "file": "Hats52.png",
+      "percent": 0.94
+    },
+    {
+      "name": "Robinhood Hat",
+      "file": "Hats53.png",
+      "percent": 1.21
+    },
+    {
+      "name": "Space Helmet",
+      "file": "Hats54.png",
+      "percent": 0.18
+    },
+    {
+      "name": "Sailor Hat",
+      "file": "Hats55.png",
+      "percent": 1.56
+    },
+    {
+      "name": "Fish Bowl",
+      "file": "Hats56.png",
+      "percent": 0.33
+    },
+    {
+      "name": "Minotaur Horns",
+      "file": "Hats57.png",
+      "percent": 0.98
+    },
+    {
+      "name": "Ram Horns",
+      "file": "Hats58.png",
+      "percent": 2.6
+    },
+    {
+      "name": "Red Cap",
+      "file": "Hats59.png",
+      "percent": 1.97
+    },
+    {
+      "name": "Clown Hat",
+      "file": "Hats6.png",
+      "percent": 0.44
+    },
+    {
+      "name": "Giraffe Hat",
+      "file": "Hats60.png",
+      "percent": 0.85
+    },
+    {
+      "name": "Green Cap",
+      "file": "Hats61.png",
+      "percent": 2.46
+    },
+    {
+      "name": "Purple Beanie",
+      "file": "Hats62.png",
+      "percent": 2.34
+    },
+    {
+      "name": "Red Bow Sunhat",
+      "file": "Hats63.png",
+      "percent": 2.48
+    },
+    {
+      "name": "Shark Hat",
+      "file": "Hats64.png",
+      "percent": 1.88
+    },
+    {
+      "name": "Army Cap",
+      "file": "Hats65.png",
+      "percent": 2.01
+    },
+    {
+      "name": "Bucket Hat",
+      "file": "Hats66.png",
+      "percent": 1.67
+    },
+    {
+      "name": "Pink Anime Hat",
+      "file": "Hats67.png",
+      "percent": 0.96
+    },
+    {
+      "name": "Yellow Floppy Hat",
+      "file": "Hats68.png",
+      "percent": 1.2
+    },
+    {
+      "name": "Heart Headband",
+      "file": "Hats69.png",
+      "percent": 1.21
+    },
+    {
+      "name": "Viking Helmet With Eyepatch",
+      "file": "Hats7.png",
+      "percent": 0.45
+    },
+    {
+      "name": "Blue Skullcap",
+      "file": "Hats70.png",
+      "percent": 1.77
+    },
+    {
+      "name": "Multicolor Cap",
+      "file": "Hats71.png",
+      "percent": 1.22
+    },
+    {
+      "name": "Pirate Hat",
+      "file": "Hats72.png",
+      "percent": 0.77
+    },
+    {
+      "name": "Bulky Headphones",
+      "file": "Hats73.png",
+      "percent": 0.75
+    },
+    {
+      "name": "Flat Cap",
+      "file": "Hats8.png",
+      "percent": 3.21
+    },
+    {
+      "name": "Wizard Hat",
+      "file": "Hats9.png",
+      "percent": 1.27
+    }
+  ],
+  "Mouthwear": [
+    {
+      "name": "Grin",
+      "file": "Mouthwear10.png",
+      "percent": 25.59
+    },
+    {
+      "name": "Pipe",
+      "file": "Mouthwear11.png",
+      "percent": 2.03
+    },
+    {
+      "name": "Rose",
+      "file": "Mouthwear12.png",
+      "percent": 4.53
+    },
+    {
+      "name": "Tongue",
+      "file": "Mouthwear13.png",
+      "percent": 19.27
+    },
+    {
+      "name": "Orange Leprechaun Beard",
+      "file": "Mouthwear2.png",
+      "percent": 0.64
+    },
+    {
+      "name": "Horror Mask",
+      "file": "Mouthwear3.png",
+      "percent": 0.39
+    },
+    {
+      "name": "Wise Beard",
+      "file": "Mouthwear4.png",
+      "percent": 0.77
+    },
+    {
+      "name": "Blue Mask",
+      "file": "Mouthwear5.png",
+      "percent": 1.81
+    },
+    {
+      "name": "Santa Beard",
+      "file": "Mouthwear6.png",
+      "percent": 0.93
+    },
+    {
+      "name": "Duck Beak",
+      "file": "Mouthwear7.png",
+      "percent": 1.03
+    },
+    {
+      "name": "Bird Beak",
+      "file": "Mouthwear8.png",
+      "percent": 1.16
+    },
+    {
+      "name": "N95",
+      "file": "Mouthwear9.png",
+      "percent": 1.3
+    }
+  ],
+  "Wings": [
+    {
+      "name": "Dragon Wings",
+      "file": "Wing1.png",
+      "percent": 1.04
+    },
+    {
+      "name": "Phoenix Wings",
+      "file": "Wing2.png",
+      "percent": 0.71
+    },
+    {
+      "name": "Fairy Wings",
+      "file": "Wing3.png",
+      "percent": 0.58
+    },
+    {
+      "name": "Angel Wings",
+      "file": "Wing4.png",
+      "percent": 1.8
+    }
+  ]
+}
